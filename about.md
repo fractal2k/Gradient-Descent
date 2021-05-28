@@ -1,6 +1,10 @@
 ---
 layout: page
-title: About me 
+title: About
 ---
 
-This is a static page. It could be an 'about page' if you'd like.
+Gradient Descent is me trying to document/share my journey of learning Deep Learning using proper methods for learning.
+
+#### About the Author
+
+My name is Sujay Rokade. That's all you get for now.
