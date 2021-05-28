@@ -6,8 +6,8 @@ markdown: kramdown
 highlighter: rouge
 logo: false
 paginate: 10
-baseurl: ""
-domain_name: "https://fractal2k.github.io/gradient-descent"
+baseurl: "/gradient-descent"
+domain_name: ""
 google_analytics: "UA-XXXXXXXX-X"
 plugins: [jekyll-paginate]
 
