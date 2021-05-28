@@ -1,0 +1,20 @@
+name: Gradient Descent
+description: A blog brought to you by chronic insomnia.
+meta_description: "Gradient Descent, Learning to learn"
+
+markdown: kramdown
+highlighter: rouge
+logo: false
+paginate: 10
+baseurl: ""
+domain_name: "https://fractal2k.github.io/gradient-descent"
+google_analytics: "UA-XXXXXXXX-X"
+plugins: [jekyll-paginate]
+permalink: /:title
+
+# Details for the RSS feed generator
+url: ""
+author: "Sujay Rokade"
+
+# Disqus config
+disqus-shortname: "Sujay"
