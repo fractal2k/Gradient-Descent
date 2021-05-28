@@ -10,7 +10,6 @@ baseurl: ""
 domain_name: "https://fractal2k.github.io/gradient-descent"
 google_analytics: "UA-XXXXXXXX-X"
 plugins: [jekyll-paginate]
-permalink: /:title
 
 # Details for the RSS feed generator
 url: ""
