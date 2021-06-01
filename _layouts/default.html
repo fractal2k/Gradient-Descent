@@ -23,6 +23,16 @@
     <link rel="stylesheet" type="text/css" href="{{'/assets/css/main.css' | relative_url}} " />
     <link rel="shortcut icon" type="image/png" href="{{ '/assets/images/icon.png' | relative_url}}" />
 
+    <!-- Global site tag (gtag.js) - Google Analytics -->
+    <script async src="https://www.googletagmanager.com/gtag/js?id={{ site.google_analytics }}"></script>
+    <script>
+      window.dataLayer = window.dataLayer || [];
+      function gtag() { dataLayer.push(arguments); }
+      gtag('js', new Date());
+
+      gtag('config', '{{ site.google_analytics }}');
+    </script>
+
 </head>
 <body class="{% if page.post_class %}{{page.post_class}}{% else %}home-template{% endif %}">
 
@@ -41,15 +51,5 @@
     <script type="text/javascript" src="{{'/assets/js/jquery.fitvids.js' | relative_url }}"></script>
     <script type="text/javascript" src="{{'/assets/js/index.js' | relative_url }}"></script>
     <script type="text/javascript" src="https://cdn.mathjax.org/mathjax/latest/MathJax.js?config=TeX-AMS-MML_HTMLorMML"></script>
-
-    <!-- Global site tag (gtag.js) - Google Analytics -->
-    <script async src="https://www.googletagmanager.com/gtag/js?id={{ site.google_analytics }}"></script>
-    <script>
-      window.dataLayer = window.dataLayer || [];
-      function gtag() { dataLayer.push(arguments); }
-      gtag('js', new Date());
-
-      gtag('config', '{{ site.google_analytics }}');
-    </script>
 </body>
 </html>
