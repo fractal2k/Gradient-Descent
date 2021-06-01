@@ -8,7 +8,7 @@ logo: false
 paginate: 10
 baseurl: "/gradient-descent"
 domain_name: "https://fractal2k.github.io/gradient-descent/"
-google_analytics: "UA-XXXXXXXX-X"
+google_analytics: "G-D79GGR5J9N"
 plugins: [jekyll-paginate]
 share_image: "/assets/images/share_image.png"
 
