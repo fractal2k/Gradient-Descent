@@ -8,8 +8,8 @@ logo: false
 paginate: 10
 baseurl: "/gradient-descent"
 domain_name: "https://fractal2k.github.io/gradient-descent"
-google_analytics: "UA-198386051-2"
-plugins: [jekyll-paginate, jekyll-analytics]
+google_analytics: "G-9PYCKW11VT"
+plugins: [jekyll-paginate]
 
 # Details for the RSS feed generator
 url: ""
@@ -17,9 +17,3 @@ author: "Sujay Rokade"
 
 # Disqus config
 disqus-shortname: "sujay"
-
-# jekyll-analytics plugin stuff
-jekyll_analytics:
-  GoogleAnalytics:          # Add, if you want to track with Google Analytics
-    id: UA-198386051-2      # Required - replace with your tracking id
-    anonymizeIp: false      # Optional - Default: false - set to true for anonymized tracking
