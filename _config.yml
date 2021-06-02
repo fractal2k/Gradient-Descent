@@ -7,10 +7,9 @@ highlighter: rouge
 logo: false
 paginate: 10
 baseurl: "/gradient-descent"
-domain_name: "https://fractal2k.github.io/gradient-descent/"
+domain_name: "https://fractal2k.github.io/gradient-descent"
 google_analytics: "UA-198386051-2"
 plugins: [jekyll-paginate]
-share_image: "/assets/images/share_image.png"
 
 # Details for the RSS feed generator
 url: ""
