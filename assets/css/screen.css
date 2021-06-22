@@ -1072,6 +1072,14 @@ body:not(.post-template) .post-title {
   margin: 0 -13%;
 }
 
+.post-content video {
+  display: block;
+  max-width: 100%;
+  height: auto;
+  margin: 0 auto 1.75em;
+  padding: 0.6em 0;
+}
+
 /* The author credit area after the post */
 .post-footer {
   position: relative;
