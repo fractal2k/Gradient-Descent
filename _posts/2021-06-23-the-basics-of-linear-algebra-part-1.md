@@ -1,7 +1,7 @@
 ---
 layout: post
 title: The Basics of Linear Algebra (Part 1)
-date: 2021-06-22 15:15:00 +0530
+date: 2021-06-23 11:00:00 +0530
 ---
 
 Hey! Welcome back. In this post, we're going to start with the math you must know for Deep Learning. Here's what we're gonna need:
@@ -251,6 +251,8 @@ If the second half of last sentence confused you, it means the result we obtain 
 *Phew*
 
 That was a lot to take in. This is why I have split this one post into two. Next time, we will cover more topics about matrices, and take a quick look at tensors.
+
+Another thing worth a mention is that I've only taken examples of 2x2 matrices, and vectors in 2-dimensions. The reason is ease in explanation and understanding. In practice, we work with much bigger vectors and matrices, and its important to understand what's going on instead of rushing in blindly.
 
 ### Reality Check
 
