@@ -13,7 +13,7 @@ Gradient Descent is me trying to document/share my journey of learning Deep Lear
 1. Number theory
 2. Basic geometry
 3. Graphs
-4. Calculus (The book doesn't cover this, so I skip it too. You can watch [3blue1brown's Essence of Calculus](https://www.youtube.com/playlist?list=PLZHQObOWTQDMsr9K-rj53DwVRMYO3t5Yr) to get started)
+4. Calculus (The book doesn't cover this, so I skip it too. You can watch [3Blue1Brown's Essence of Calculus](https://www.youtube.com/playlist?list=PLZHQObOWTQDMsr9K-rj53DwVRMYO3t5Yr){:target="_blank"} to get started)
 5. Basic computer science knowledge
 
 #### How do you make the animations?

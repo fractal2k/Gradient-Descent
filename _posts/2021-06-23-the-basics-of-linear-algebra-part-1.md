@@ -15,7 +15,7 @@ And here are the prerequisites that I assume you already know and understand wel
 1. Number theory
 2. Basic geometry
 3. Graphs
-4. Calculus (The book doesn't cover this, so I skip it too. You can watch [3blue1brown's Essence of Calculus](https://www.youtube.com/playlist?list=PLZHQObOWTQDMsr9K-rj53DwVRMYO3t5Yr){:target="\_blank"} to get started)
+4. Calculus (The book doesn't cover this, so I skip it too. You can watch [3Blue1Brown's Essence of Calculus](https://www.youtube.com/playlist?list=PLZHQObOWTQDMsr9K-rj53DwVRMYO3t5Yr){:target="\_blank"} to get started)
 5. Basic computer science knowledge (like data structures)
 
 I'm gonna start with Linear Algebra. Let's dive in.
@@ -267,5 +267,9 @@ If you understood what you read, you should be able to answer the following ques
 7. What are basis vectors?
 8. What is a matrix?
 9. How does a matrix transform a vector space?
+
+### Extra references
+
+[3Blue1Brown's Essence of linear algebra](https://www.youtube.com/playlist?list=PLZHQObOWTQDPD3MizzM2xVFitgF8hE_ab){:target="_blank"} series was a huge help in gaining the intuition I've provided. You should definitely check it out.
 
 Thanks for reading to the end. See you next time.
