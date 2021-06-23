@@ -15,7 +15,7 @@ And here are the prerequisites that I assume you already know and understand wel
 1. Number theory
 2. Basic geometry
 3. Graphs
-4. Calculus (The book doesn't cover this, so I skip it too. You can watch [3blue1brown's Essence of Calculus](https://www.youtube.com/playlist?list=PLZHQObOWTQDMsr9K-rj53DwVRMYO3t5Yr) to get started)
+4. Calculus (The book doesn't cover this, so I skip it too. You can watch [3blue1brown's Essence of Calculus](https://www.youtube.com/playlist?list=PLZHQObOWTQDMsr9K-rj53DwVRMYO3t5Yr){:target="\_blank"} to get started)
 5. Basic computer science knowledge (like data structures)
 
 I'm gonna start with Linear Algebra. Let's dive in.
@@ -42,7 +42,7 @@ Let's look at them one by one, because these four horsemen who once plagued our 
 
 ### Scalar
 
-By definition, a scalar is an element of a field that is used to define a vector space ([Wikipedia](https://en.wikipedia.org/wiki/Scalar_(mathematics))). Now that you're scared, let me relieve you. A scalar is a regular number. 1, 5, 123, 4957298748, -1, 1.45, 0 are all examples of scalars.
+By definition, a scalar is an element of a field that is used to define a vector space ([Wikipedia](https://en.wikipedia.org/wiki/Scalar_(mathematics)){:target="_blank"}). Now that you're scared, let me relieve you. A scalar is a regular number. 1, 5, 123, 4957298748, -1, 1.45, 0 are all examples of scalars.
 
 By convention, when you introduce a scalar, you also mention what set of numbers it belongs to. For example, let \\(s\in \mathbb{R}\\) be the distance between your house and school.
 
@@ -68,7 +68,7 @@ In the previous section, I mentioned that all vectors have a magnitude and a dir
 
 You can think of magnitude as a measure of the "size" of the vector. Another intuition is how far the vector will take us if we travel from its tail to the tip of its arrow. Let's find out how to calculate the magnitude if we consider the second intuition.
 
-(I hope you know about [Pythagoras' Theorem](https://en.wikipedia.org/wiki/Pythagorean_theorem))
+(I hope you know about [Pythagoras' Theorem](https://en.wikipedia.org/wiki/Pythagorean_theorem){:target="\_blank"})
 
 Consider this diagram (I've added some labels to it):
 
