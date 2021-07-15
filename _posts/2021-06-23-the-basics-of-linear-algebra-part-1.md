@@ -182,7 +182,7 @@ The reason I shoveled the basics of vectors in your face multiple times is so yo
  
  Here's what it looks like:
 
- <figure>
+ <figure id="tow-anim">
     <video controls="true">
         <source src="{{'assets/videos/DifferentBasis.mp4' | relative_url}}" type="video/mp4">
     </video>
