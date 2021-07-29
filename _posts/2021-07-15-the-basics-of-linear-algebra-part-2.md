@@ -8,6 +8,8 @@ Hey! Welcome back. This is a continuation of [the previous blog post I made]({{ 
 
 Last time we stopped at matrix multiplication. This time, we take the torch forward from there.
 
+---
+
 {:class="table-of-contents"}
 * TOC
 {:toc}
@@ -313,9 +315,11 @@ One quick way to find out how many dimensions the tensor has is to see how many 
 
 Here's the [wiki link](https://en.wikipedia.org/wiki/Tensor){:target="\_blank"} if you want to read about tensors in mathematics. [This video by professor Daniel Fleisch](https://www.youtube.com/watch?v=f5liqUk0ZTw){:target="\_blank"} is also helpful.
 
+---
+
 That pretty much covers most of the basics ideas we need for linear algebra. We are now ready to start with linear systems.
 
-### Reality Check
+### Reality check
 
 If you understood what you read, you should be able to answer the following questions satisfactorily (to whose satisfaction you ask? Yours of course!)
 

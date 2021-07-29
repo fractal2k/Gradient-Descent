@@ -22,6 +22,8 @@ I'm gonna start with Linear Algebra. Let's dive in.
 
 (Please note this is not a complete course on any of these topics or any of the subtopics I cover within them, it's a quick explanation of what they are and the properties that we use later)
 
+---
+
 {:class="table-of-contents"}
 
 * TOC
@@ -150,7 +152,7 @@ Now that we are aware of \\(\hat{i}\\) and \\(\hat{j}\\) as independent vectors,
     </video>
 </figure>
 
-The implication we get from this is important: **You can obtain any vector by multiplying the basis vectors by some scalar and adding them** (not the complete truth. We discuss why in a later chapter where I talk about *span*).
+<p id='lsystems-ref'>The implication we get from this is important: <strong>You can obtain any vector by multiplying the basis vectors by some scalar and adding them</strong> (not the complete truth. We discuss why in a later chapter where I talk about <em>span</em>).</p>
 
 That sounds trivial at first but think about it. This property will hold regardless of which basis vectors we pick. We could pick \\(\boldsymbol{u}=[0.72,\ 1.234]\\) and \\(\boldsymbol{v}=[-1.2,\ 3.5]\\) as the basis vectors, and we would still be able to obtain any point we want on the entire graph by multiplying them by some scalars and adding them.
 
@@ -248,13 +250,15 @@ If the second half of last sentence confused you, it means the result we obtain 
 
 (P.S. These values of \\(\hat{i}\\) and \\(\hat{j}\\) are almost always the same, unless specified otherwise)
 
+---
+
 *Phew*
 
 That was a lot to take in. This is why I have split this one post into two. Next time, we will cover more topics about matrices, and take a quick look at tensors.
 
 Another thing worth a mention is that I've only taken examples of 2x2 matrices, and vectors in 2-dimensions. The reason is ease in explanation and understanding. In practice, we work with much bigger vectors and matrices, and its important to understand what's going on instead of rushing in blindly.
 
-### Reality Check
+### Reality check
 
 If you understood what you read, you should be able to answer the following questions satisfactorily (to whose satisfaction you ask? Yours of course!)
 
